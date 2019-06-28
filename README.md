@@ -1,5 +1,5 @@
 # SDCGeoCore
-Software AG Developer Community - Integration Server - Geo Location By IP
+Software AG Developer Community - Integration Server - Geo Location By IP | Author : Harry Prasetyo K | @arydewo
 
 Description : 
 This is an Integration Server based package containing REST Service that can be utilized for querying geo location information by IP Address (IPv4)
